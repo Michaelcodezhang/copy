@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1072__.dir/main.cpp.o  -o 1072__ 

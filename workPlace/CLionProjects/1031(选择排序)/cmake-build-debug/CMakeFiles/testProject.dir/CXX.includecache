@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaelcode/workPlace/CLionProjects/testProject/1031选择排序.cpp
+iostream
+-
+
+/home/michaelcode/workPlace/CLionProjects/testProject/1060(逆序输出).cpp
+iostream
+-
+

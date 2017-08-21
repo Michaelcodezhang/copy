@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/testProject.dir/1031选择排序.cpp.o "CMakeFiles/testProject.dir/1060(逆序输出).cpp.o"  -o testProject 

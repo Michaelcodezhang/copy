@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   "CMakeFiles/1071.dir/1071(求余).cpp.o"  -o 1071 
